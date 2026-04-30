@@ -25,8 +25,8 @@ A hand-built, interactive Web CV combining portfolio projects, skills and career
 **Run locally:**
 
 ```bash
-git clone https://github.com/anudoranador87/anudoranador87.github.io.git
-cd anudoranador87.github.io
+git clone https://github.com/anudoranador87/JoseMaria-Frondtend-Portfolio.git
+cd JoseMaria-Frondtend-Portfolio
 # Open index.html with Live Server (VS Code) or any local server
 ```
 
@@ -55,6 +55,7 @@ This Web CV is designed to:
 | ⚙️ EquiShift Flagship | Full-width showcase of real-world shift management algorithm |
 | 📓 Dev Log 365 Section | Closing block with real diary entries, stats and GitHub CTA |
 | 🔗 Clean Contact Bar | Real `mailto:`, GitHub and LinkedIn — no obfuscation |
+| 🌍 Multi-language Support | Dynamic language switching (English/Spanish) using vanilla JavaScript for enhanced accessibility. |
 
 ---
 
@@ -101,6 +102,14 @@ This Web CV is designed to:
 
 ### 🏆 Featured Projects
 
+**Personal Projects**
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| ⚙️ EquiShift Málaga | Shift rotation algorithm for mixed-contract hospitality teams. Built to solve an unfair manual process, validated over 104 weekends, and tested against holidays/night constraints. | JavaScript | [Code](https://github.com/anudoranador87/equishift-malaga) · Live |
+| ☕ Campus & Crema | Café website migrated from vanilla JS to React + Vite, deployed on Vercel. Components: Navbar, Carousel, Menu, ReservationForm, Footer. IntersectionObserver animations. Responsive design. | React · Vite · JS · HTML · CSS | [Code](https://github.com/anudoranador87/campus-crema-react) · Live |
+| 🛒 MiniShop JS | Shopping cart module built with OOP using `Product` and `Cart` classes. Implemented totals/removal logic with `reduce()` and `filter()`, then documented and fixed 6 bugs. | JavaScript · HTML · CSS | [Code](https://github.com/anudoranador87/-MiniShop-JS) · Live |
+
 **Meta Front-End Specialization**
 
 | Project | What I learned | Stack | Links |
@@ -110,11 +119,11 @@ This Web CV is designed to:
 
 **freeCodeCamp Projects**
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 📋 Hospitality Survey Form | HTML5 form with full validation & professional inputs | [Code](https://github.com/anudoranador87/fcc-hotel-survey-form) · Live soon |
-| 📚 Book Inventory App | Personal project using HTML & CSS | Coming soon |
-| 🚀 Product Landing Page | Flexbox & sticky nav for modern UX | Coming soon |
+| Project | Description | Status | Links |
+|---------|-------------|--------|-------|
+| 📋 Hospitality Survey Form | HTML5 form with full validation & professional inputs | Live soon | [Code](https://github.com/anudoranador87/fcc-hotel-survey-form) |
+| 📚 Technical Documentation Page | Fixed lateral navbar, smooth scroll and CSS variable system consistent with the Dev Log. Documented my own learning process. | Live soon | [Code](https://github.com/anudoranador87/fcc-technical-documentation) |
+| 🚀 Product Landing Page | Responsive landing page with Flexbox, sticky nav and modern UX. | Live soon | [Code](https://github.com/anudoranador87/fcc-product-landing-page) |
 
 ---
 
@@ -135,7 +144,7 @@ The original CV was functional. This version is intentional.
 #### v1.3 — Playing Cards & Dark Mode *(February 2026)*
 
 - Completed FreeCodeCamp Playing Cards — Flexbox, 3D transforms, `cubic-bezier` timing, CSS `filter` grayscale-to-color
-- Implemented native dark mode: `classList.toggle('dark-mode')` + CSS Custom Properties token system
+- Implemented native dark mode: `classList.toggle(\'dark-mode\')` + CSS Custom Properties token system
 - First real DOM manipulation with JavaScript Event Listeners
 
 #### v1.2 — Projects & Portfolio *(February 2026)*
@@ -174,7 +183,7 @@ Apr 2026+ → GitHub Pages deployment, React integration, EquiShift dashboard
 - 💼 [LinkedIn](https://www.linkedin.com/in/joseaparicio87/)
 - 📧 [josemaparicio87@gmail.com](mailto:josemaparicio87@gmail.com)
 
-*Open to junior front-end opportunities — remote, hybrid, or relocation. If you value consistency, real problem-solving, and someone who performs under pressure — let's talk.*
+*Open to junior front-end opportunities — remote, hybrid, or relocation. If you value consistency, real problem-solving, and someone who performs under pressure — let\'s talk.*
 
 ---
 ---
@@ -198,8 +207,8 @@ Un Web CV construido a mano que combina proyectos de portfolio, habilidades y ev
 **Correr en local:**
 
 ```bash
-git clone https://github.com/anudoranador87/anudoranador87.github.io.git
-cd anudoranador87.github.io
+git clone https://github.com/anudoranador87/JoseMaria-Frondtend-Portfolio.git
+cd JoseMaria-Frondtend-Portfolio
 # Abrir index.html con Live Server (VS Code) o cualquier servidor local
 ```
 
@@ -228,6 +237,7 @@ Este Web CV está diseñado para:
 | ⚙️ EquiShift Flagship | Showcase a ancho completo del algoritmo de gestión de turnos real |
 | 📓 Sección Dev Log 365 | Bloque de cierre con entradas reales del diario, stats y CTA a GitHub |
 | 🔗 Barra de contacto limpia | `mailto:` real, GitHub y LinkedIn — sin ofuscación |
+| 🌍 Soporte Multi-idioma | Cambio dinámico de idioma (Inglés/Español) usando JavaScript vanilla para una accesibilidad mejorada. |
 
 ---
 
@@ -274,20 +284,28 @@ Este Web CV está diseñado para:
 
 ### 🏆 Proyectos Destacados
 
+**Proyectos Personales**
+
+| Proyecto | Descripción | Stack | Enlaces |
+|---------|-------------|-------|-------|
+| ⚙️ EquiShift Málaga | Algoritmo de rotación de turnos para equipos de hostelería con contratos mixtos. Construido para resolver un proceso manual injusto, validado durante más de 104 fines de semana y probado contra restricciones de festivos/noches. | JavaScript | [Code](https://github.com/anudoranador87/equishift-malaga) · Live |
+| ☕ Campus & Crema | Sitio web de cafetería migrado de JS vanilla a React + Vite, desplegado en Vercel. Componentes: Navbar, Carrusel, Menú, Formulario de Reserva, Footer. Animaciones con IntersectionObserver. Diseño responsive. | React · Vite · JS · HTML · CSS | [Code](https://github.com/anudoranador87/campus-crema-react) · Live |
+| 🛒 MiniShop JS | Módulo de carrito de compras construido con POO usando clases `Product` y `Cart`. Lógica de totales/eliminación implementada con `reduce()` y `filter()`, luego documentado y corregidos 6 errores. | JavaScript · HTML · CSS | [Code](https://github.com/anudoranador87/-MiniShop-JS) · Live |
+
 **Especialización Meta Front-End**
 
 | Proyecto | Qué aprendí | Stack | Enlaces |
 |---------|------------|-------|---------|
-| 💍 Mangata & Gallo | HTML semántico, CSS avanzado, UI polish | HTML · CSS | [Código](https://github.com/anudoranador87/mangata-gallo-jewelry) · Live |
-| 🃏 We Playing Cards | Flexbox, transformaciones 3D, hover escala de grises a color | HTML · CSS · JS | [Código](https://github.com/anudoranador87/we-playing-cards) · Live |
+| 💍 Mangata & Gallo | HTML semántico, CSS avanzado, pulido de UI | HTML · CSS | [Code](https://github.com/anudoranador87/mangata-gallo-jewelry) · Live |
+| 🃏 We Playing Cards | Flexbox, transformaciones 3D, efecto hover de escala de grises a color | HTML · CSS · JS | [Code](https://github.com/anudoranador87/we-playing-cards) · Live |
 
 **Proyectos freeCodeCamp**
 
-| Proyecto | Descripción | Estado |
-|---------|-------------|--------|
-| 📋 Formulario Hostelería | Formulario HTML5 con validación completa e inputs profesionales | [Código](https://github.com/anudoranador87/fcc-hotel-survey-form) · Live pronto |
-| 📚 App Inventario de Libros | Proyecto personal con HTML & CSS | Próximamente |
-| 🚀 Landing Page de Producto | Flexbox y nav sticky para UX moderna | Próximamente |
+| Proyecto | Descripción | Estado | Enlaces |
+|---------|-------------|--------|-------|
+| 📋 Formulario de Encuesta de Hostelería | Formulario HTML5 con validación completa y entradas profesionales | Próximamente | [Code](https://github.com/anudoranador87/fcc-hotel-survey-form) |
+| 📚 Página de Documentación Técnica | Barra de navegación lateral fija, desplazamiento suave y sistema de variables CSS consistente con el Dev Log. Documenté mi propio proceso de aprendizaje. | Próximamente | [Code](https://github.com/anudoranador87/fcc-technical-documentation) |
+| 🚀 Página de Aterrizaje de Producto | Página de aterrizaje responsive con Flexbox, navegación fija y UX moderna. | Próximamente | [Code](https://github.com/anudoranador87/fcc-product-landing-page) |
 
 ---
 
@@ -295,56 +313,56 @@ Este Web CV está diseñado para:
 
 #### v2.0 — Rediseño editorial *(Marzo 2026)*
 
-El CV original funcionaba. Esta versión es intencional.
+El CV original era funcional. Esta versión es intencional.
 
-- **Tipografía** — Playfair Display (titulares), Inter (UI), Fira Code (etiquetas). `clamp()` para escalado fluido
-- **Header** — Estructura de 3 capas: barra meta · masthead · barra de contacto. Añadido LinkedIn, corregida ofuscación de Cloudflare
-- **Separadores de sección** — Sustituidos bloques `h2` oscuros por líneas editoriales (línea · etiqueta · línea)
-- **Sistema de color** — Tokens CSS Custom Properties completos. Modo oscuro via `.dark-mode`. Fix contraste: `--text-soft` #555 → #3a3a3a (WCAG AA)
-- **Sección Dev Log 365** — Nuevo bloque de cierre oscuro con 17 entradas reales, stats y CTA a GitHub
-- **Tarjeta flagship EquiShift** — Promovida a ancho completo del grid
-- **Correcciones** — Eliminada inyección de Cloudflare, JS truncado reparado, `rel="noopener noreferrer"` en todos los links externos
+- **Tipografía** — Playfair Display (titulares), Inter (UI), Fira Code (etiquetas). `clamp()` para escalado fluido de titulares
+- **Encabezado** — Reconstruido como estructura de 3 capas: barra meta · cabecera · barra de contacto. Añadido LinkedIn, corregida la ofuscación de correo electrónico de Cloudflare
+- **Separadores de sección** — Reemplazados los bloques `h2` oscuros de ancho completo por líneas editoriales (línea · etiqueta · línea)
+- **Sistema de color** — Sistema completo de tokens de propiedades personalizadas CSS. Modo oscuro mediante una única clase `.dark-mode`. Corrección de contraste en modo claro: `--text-soft` #555 → #3a3a3a (WCAG AA)
+- **Sección Dev Log 365** — Nuevo bloque de cierre oscuro con 17 entradas reales del diario, estadísticas y CTA a GitHub
+- **Tarjeta insignia EquiShift** — Promocionada a showcase de cuadrícula de ancho completo
+- **Correcciones** — Eliminada la inyección de script de Cloudflare, corregido el bloque JS truncado, `rel="noopener noreferrer"` en todos los enlaces externos
 
-#### v1.3 — Playing Cards & Modo Oscuro *(Febrero 2026)*
+#### v1.3 — Cartas de Juego y Modo Oscuro *(Febrero 2026)*
 
-- Proyecto Playing Cards completado — Flexbox, 3D transforms, timing `cubic-bezier`, CSS `filter` escala de grises a color
-- Modo oscuro nativo: `classList.toggle('dark-mode')` + CSS Custom Properties
-- Primera manipulación DOM real con Event Listeners en JavaScript
+- Completadas las Cartas de Juego de FreeCodeCamp — Flexbox, transformaciones 3D, temporización `cubic-bezier`, efectos de filtro CSS de escala de grises a color
+- Implementado el modo oscuro nativo: `classList.toggle(\'dark-mode\')` + sistema de tokens de propiedades personalizadas CSS
+- Primera manipulación real del DOM con Event Listeners de JavaScript
 
-#### v1.2 — Proyectos & Portfolio *(Febrero 2026)*
+#### v1.2 — Proyectos y Portfolio *(Febrero 2026)*
 
-- Implementada sección de proyectos personales con labs Meta
-- Correcciones de layout y estilos en la sección de tarjetas
+- Implementada la sección de Proyectos Personales con laboratorios de Certificación Meta
+- Corregido el diseño y estilo de la sección de tarjetas de proyecto
 
-#### v1.1 — Estilos & Refactorización Visual *(Enero 2026)*
+#### v1.1 — Estilo y Refactorización Visual *(Enero 2026)*
 
-- Refactorizado `index.html`: markup más limpio, typos corregidos, links rotos reparados
-- Mejorada alineación de texto, espaciado y contraste del header
+- Refactorizado `index.html`: marcado más limpio, corregidos errores tipográficos, reparados enlaces rotos
+- Mejorada la alineación del texto, el espaciado y el contraste del encabezado para una mejor legibilidad
 
-#### v1.0 — Estructura Inicial & Semántica *(Enero 2026)*
+#### v1.0 — Estructura Inicial y Semántica *(Enero 2026)*
 
-- Estructura HTML semántica: `<header>`, `<section>`, `<footer>`
-- Listas anidadas para habilidades, sección de formación con Grado y certificaciones
-- Markup limpio, `alt` texts mejorados para accesibilidad y SEO
-
----
-
-### 📈 Timeline de Desarrollo
-
-```
-Ene 2026  → Estructura HTML semántica y bases CSS
-Feb 2026  → Sección portfolio, Playing Cards, Modo Oscuro
-Mar 2026  → Rediseño editorial, sección Dev Log 365, fix de contraste
-Abr 2026+ → Despliegue GitHub Pages, integración React, dashboard EquiShift
-```
+- Estructura HTML semántica: `<header>`, `<section>`, `<footer>` — arquitectura de documento adecuada
+- Listas anidadas para habilidades profesionales, sección de Educación con B.Ed. y certificaciones
+- Marcado limpio, mejorados los textos `alt` para accesibilidad y SEO
 
 ---
 
-### 🔗 Más Sobre Mí
+### 📈 Cronología de Desarrollo
 
-- 📓 [Diario 365 Días](https://github.com/anudoranador87/Mi-Camino-Web-365) — Bitácora diaria: bugs, soluciones y victorias reales
-- ⚙️ [EquiShift Málaga](https://github.com/anudoranador87/equishift-malaga) — Algoritmo de gestión de turnos para uso laboral real
+```
+Ene 2026  → Estructura HTML semántica y conceptos básicos de CSS
+Feb 2026  → Sección de Portfolio, Cartas de Juego, Modo Oscuro
+Mar 2026  → Rediseño editorial, sección Dev Log 365, correcciones de contraste
+Abr 2026+ → Despliegue en GitHub Pages, integración de React, panel de control EquiShift
+```
+
+---
+
+### 🔗 Más de Mí
+
+- 📓 [365-Day Dev Journey](https://github.com/anudoranador87/Mi-Camino-Web-365) — Bitácora diaria de aprendizaje: errores, soluciones y avances
+- ⚙️ [EquiShift Málaga](https://github.com/anudoranador87/equishift-malaga) — Algoritmo modular de gestión de turnos para uso real en el lugar de trabajo
 - 💼 [LinkedIn](https://www.linkedin.com/in/joseaparicio87/)
 - 📧 [josemaparicio87@gmail.com](mailto:josemaparicio87@gmail.com)
 
-*Disponible para oportunidades junior en front-end — remoto, híbrido o presencial. Si buscas consistencia, resolución real de problemas y alguien que rinde bajo presión — hablemos.*
+*Abierto a oportunidades de desarrollador front-end junior — remoto, híbrido o con reubicación. Si valoras la consistencia, la resolución real de problemas y a alguien que rinde bajo presión — hablemos.*
