@@ -403,7 +403,7 @@ async function getGithubProjects() {
       "campus-crema-react",
       "mangata-gallo-jewelry",     
       "we-playing-cards",
-      "lostdesk-hotel",
+      "lostdesk-react",
       "Trivial-shift",
       "DeskPedia"
  
