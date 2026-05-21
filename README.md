@@ -25,8 +25,8 @@ A hand-built, interactive Web CV combining portfolio projects, skills and career
 **Run locally:**
 
 ```bash
-git clone https://github.com/anudoranador87/JoseMaria-Frondtend-Portfolio.git
-cd JoseMaria-Frondtend-Portfolio
+git clone https://github.com/anudoranador87/JoseMaria-Frontend-Portfolio.git
+cd JoseMaria-Frontend-Portfolio
 # Open index.html with Live Server (VS Code) or any local server
 ```
 
@@ -207,8 +207,8 @@ Un Web CV construido a mano que combina proyectos de portfolio, habilidades y ev
 **Correr en local:**
 
 ```bash
-git clone https://github.com/anudoranador87/JoseMaria-Frondtend-Portfolio.git
-cd JoseMaria-Frondtend-Portfolio
+git clone https://github.com/anudoranador87/JoseMaria-Frontend-Portfolio.git
+cd JoseMaria-Frontend-Portfolio
 # Abrir index.html con Live Server (VS Code) o cualquier servidor local
 ```
 
