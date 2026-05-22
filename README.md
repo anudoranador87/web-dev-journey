@@ -18,9 +18,8 @@ A hand-built, interactive Web CV combining portfolio projects, skills and career
 
 ### 🖥️ Demo
 
-> 📸 Screenshot placeholder — GitHub Pages deployment pending
->
-> Live URL: `https://anudoranador87.github.io` *(coming soon)*
+
+> Live URL: `https://github.com/anudoranador87/JoseMaria-Frontend-Portfolio.git` 
 
 **Run locally:**
 
