@@ -1,6 +1,7 @@
 # 🌐 Jose Aparicio — Web Developer | Interactive Web CV
 
-🇬🇧 [English](#-jose-aparicio--web-developer--interactive-web-cv-1) · 🇪🇸 [Español](#-jose-aparicio--desarrollador-web--web-cv-interactivo)
+ [Jose Live Portfolio]  https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/
+
 
 ---
 
@@ -13,6 +14,7 @@ A hand-built, interactive Web CV combining portfolio projects, skills and career
 📍 Málaga, Spain · 🌱 Learning: React, Advanced JS, Web Accessibility · 🎯 Goal: Junior Front-End Developer
 
  📓 365-Day Dev Journey | Daily learning log: bugs, solutions, and breakthroughs | HTML · CSS · JS | [Read Log](https://anudoranador87.github.io/Mi-Camino-Web-365/)|
+ 
 
 ---
 
